@@ -1,6 +1,6 @@
 # Para consultar meu código entre na branch:
 ```js
-douglas-bacelar-petshop-project"
+douglas-bacelar-petshop-project
 ```
 
 # Desafio - Desenvolvedor Fullstack Júnior
