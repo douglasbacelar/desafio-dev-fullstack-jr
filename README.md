@@ -1,4 +1,7 @@
--> Para consultar meu código entre na branch "douglas-bacelar-petshop-project"
+# Para consultar meu código entre na branch:
+```js
+douglas-bacelar-petshop-project"
+```
 
 # Desafio - Desenvolvedor Fullstack Júnior
 Este é um projeto desenvolvido para um desafio de Desenvolvedor Fullstack Júnior. Nele, criei uma aplicação web no padrão MSC utilizando Node.js, com o objetivo de possibilitar a gestão de animais de estimação em uma petshop, tive apenas 24 horas para realiza-lo.
