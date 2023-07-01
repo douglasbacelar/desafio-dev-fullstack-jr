@@ -1,4 +1,4 @@
-# Para consultar meu código entre na branch:
+# Para consultar meu código e entender melhor o que foi realizado entre na branch:
 ```js
 douglas-bacelar-petshop-project
 ```
