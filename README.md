@@ -3,7 +3,7 @@
 - Email: bacelardouglas@outlook.com
 - Contato: (81) 99672-3427
 
-# 🐶 🐱 Recruit PetShop
+# 🐶 🐱 Recrut PetShop
 
   <img width="100%" align="center" src="images/deploy-petshop.gif" />
 
